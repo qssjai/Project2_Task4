@@ -1,4 +1,4 @@
-﻿// Compiler: g++ 13 (C++20), build in RELEASE mode
+// Compiler: MSVC (Visual Studio 2022), C++20, build in RELEASE mode
 
 #include <iostream>
 #include <vector>
@@ -117,3 +117,4 @@ int main() {
 
     return 0;
 }
+
